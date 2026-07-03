@@ -92,11 +92,6 @@ This project demonstrates the complete ML workflow:
 
 - Step-by-step EDA, feature engineering, and model development can be found in the `notebook/` directory.
 
----
-
-## Contributing
-
-We welcome contributions!
 
 1. Fork the repository
 2. Create a new branch
