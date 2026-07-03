@@ -81,15 +81,3 @@ This project covers the full ML workflow:
 ## Notebooks
 
 - Step-by-step EDA, feature engineering, and model development can be found in the `notebooks/` directory.
-
----
-
-## Contributing
-
-We welcome contributions!
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Commit and push your branch
-5. Open a pull request
